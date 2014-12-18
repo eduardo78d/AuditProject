@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" >
+    </item>
+    
+     <item
+        android:id="@+id/stopservices"
+        android:title="@string/stopservice">
+     </item>
+     
+     <!-- 
+	     <item
+	        android:id="@+id/audit"
+	        android:title="@string/audit">
+	        
+	         <menu >
+	             <group android:checkableBehavior="single">
+		       		<item android:id="@+id/toauditprocesses"
+		       		     android:checked="true"
+		        	     android:title="@string/processes" />
+		        	<item android:id="@+id/toaudittasks"
+		            	 android:title="@string/tasks" />
+		        </group>
+	         </menu>
+	         
+	     </item>
+      -->
+      
+      <item
+        android:id="@+id/dropdatabases"
+        android:title="@string/dropdatabases">
+     </item>
+     
+</menu>

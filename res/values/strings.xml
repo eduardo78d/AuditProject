@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name" translatable="false">Audit Project</string>
+    <string name="processList" translatable="false" >Show DB size</string>
+    <string name="taskList" translatable="false">Show Task List</string>
+   
+    <string name="MensajeText" translatable="false">Campos a Llenar</string>
+    
+    
+    <!-- Menú -->
+	    <string name="action_settings" translatable="false">Settings</string>
+		<string name="about" translatable="false">About</string>
+		
+	    <string name="stopservice" translatable="false">Stop Services</string>
+	    
+	    <string name="Message" translatable="false">Ip Server</string>
+	    
+	    <string name="audit" translatable="false">To Audit</string>
+	    	<!-- checkable menu items -->
+		    	<string name="processes" translatable="false">Processes</string>
+				<string name="tasks" translatable="false">Tasks</string>
+		    
+		<string name="dropdatabases" translatable="false">drop tables</string>
+		<string name="exportDataBase" translatable="false">Export Data Base</string>
+		
+		
+	<string name="buttonDoBackUp" translatable="false">button Do BackUp</string>
+	
+</resources>
